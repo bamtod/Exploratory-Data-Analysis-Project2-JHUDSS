@@ -159,4 +159,4 @@ ggplot(bothNEI, aes(x=factor(year), y=Emissions, fill=city)) +
 dev.off()
 ```
 
-<img src="hhttps://github.com/bamtod/Exploratory-Data-Analysis-Project2-JHUDSS/blob/master/plot6.png" alt="Exploratory Data Analysis Project 2 question 6" >
+<img src="https://github.com/bamtod/Exploratory-Data-Analysis-Project2-JHUDSS/blob/master/plot6.png" >
